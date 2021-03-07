@@ -11,6 +11,8 @@ public class Main {
         System.out.println("Ivan.");
         System.out.println("Manu");
 
+        ArrayList<String> manu = new ArrayList<>();
+
         System.out.println("\nFinal del programa.");
     }
 }
