@@ -4,6 +4,14 @@ public class Main {
         System.out.println("Inicio del programa.\n");
 
         System.out.println("Miembros del curso:");
+        
+        System.out.println("Diego.");
+        System.out.println("Narta.");
+        System.out.println("pedro");
+        System.out.println("Ivan.");
+        System.out.println("Manu");
+
+        ArrayList<String> manu = new ArrayList<>();
 
         System.out.println("\nFinal del programa.");
     }
